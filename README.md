@@ -69,7 +69,8 @@ Through this project, I demonstrated:
 # The script is tested, runs successfully, and mirrors the flow from the assignment video with the login fail.
 
 Feel free to connect if you’d like to discuss more as this position means alot to me and I am a fast learner who's dedicated to learning.
-And this is what i want to demonstrate through my task, that I pick up stuff fast thus would be a good fit at Intervue. 
+If I have made any errors or the task is not upto the mark, I apologise and can assure, with more time and guidance I can give satisfactory results as I am committed to the job.
+And this is what i want to demonstrate through my task, that I am fast learner and thus would be a good fit at Intervue. 
 
 Screen Recording sent via mail.
 Have a great day!
