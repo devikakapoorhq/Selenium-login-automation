@@ -25,7 +25,7 @@ README.md	Setup & execution guide
 
 # Setup Instructions
 
-Ensure chromedriver matches the browser version, I used the beta version to match mine.
+Ensure chromedriver matches the browser version, I used the stable version to match mine.
 
 What the Script Does:
 Launches Chrome
@@ -33,8 +33,6 @@ Launches Chrome
 Navigates to login page
 
 Clicks login under “Companies”
-
-Takes screenshot if login fails
 
 # Tech Stack
 
@@ -49,9 +47,6 @@ If login fails or any element is not found:
 
 The script handles exceptions
 
-Saves a screenshot error.png in the project folder
-
-Quits the browser safely
 
 # About Me
 Hi! I'm applying for the QA Intern role at Intervue.
@@ -66,11 +61,11 @@ Through this project, I demonstrated:
 
 ✅ Clean and reusable code practices
 
-The script is tested, runs successfully, and mirrors the flow from the assignment video with the login fail.
+The script is tested, runs successfully, and mirrors the flow from the assignment video.
 
-Feel free to connect if you’d like to discuss more as this position means alot to me and I am a fast learner who's dedicated to learning.
-If I have made any errors or the task is not upto the mark, I apologise and can assure, with more time and guidance I can give satisfactory results as I am committed to the job.
+Feel free to connect if you’d like to discuss, I am a fast learner who's dedicated to learning.
+If I have made any errors or this simple web automation task is not upto the mark, I apologise and can assure, with more time and guidance I can give satisfactory results as I am committed to the job.
 And this is what i want to demonstrate through my task, that I am fast learner and thus would be a good fit at Intervue. 
 
-Screen Recording sent via mail.
+Screen Recording drive link - https://drive.google.com/file/d/1nYlGl4lSUKv0t7HprP3EffGNL6xXS2WW/view?usp=sharing
 Have a great day!
